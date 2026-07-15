@@ -1,0 +1,19 @@
+# Core ADK framework
+google-adk
+
+google-adk[extensions]
+
+# LiteLLM for connecting ADK to Ollama (and other LLMs)
+litellm
+
+# Mailtrap official Python SDK
+mailtrap
+
+# HTTP client for SMS API and other HTTP tools
+requests
+
+# ReportLab for PDF generation
+reportlab
+
+# Optional: python-dotenv if you ever want to manually load .env outside ADK
+python-dotenv
